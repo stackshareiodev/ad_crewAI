@@ -4,8 +4,8 @@
 stackshareiodev/ad_crewAI is built on the following main stack:
 
 - [Python](https://www.python.org) – Languages
-- [Istio](https://istio.io/) – Microservices Tools
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Istio](https://istio.io/) – Microservices Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -16,8 +16,8 @@ Full tech stack [here](/techstack.md)
 stackshareiodev/ad_crewAI is built on the following main stack:
 
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/7028/AGpa5VZV.jpg' alt='Istio'/> [Istio](https://istio.io/) – Microservices Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/7028/AGpa5VZV.jpg' alt='Istio'/> [Istio](https://istio.io/) – Microservices Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -28,7 +28,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [stackshareiodev/ad_crewAI](https://github.com/stackshareiodev/ad_crewAI)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|4<br/>Tools used|02/07/24 <br/>Report generated|
+|4<br/>Tools used|02/08/24 <br/>Report generated|
 |------|------|
 </div>
 
